@@ -8,8 +8,8 @@ load_dotenv()
 
 # Retrieve AWS configuration from environment variables
 AWS_REGION = os.getenv("AWS_REGION", "us-east-2")
-KNOWLEDGE_BASE_ID = os.getenv("OR2VV9ZQBY")
-MODEL_ARN = os.getenv("meta.llama3-3-70b-instruct-v1:0")
+KNOWLEDGE_BASE_ID = os.getenv("KNOWLEDGE_BASE_ID")
+MODEL_ARN = os.getenv("MODEL_ARN")
 
 
 app = FastAPI()
