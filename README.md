@@ -27,7 +27,7 @@ Knowledge Base set up in AWS Bedrock
 Installation
 
 Clone the repository
-bashgit clone https://github.com/yourusername/rag-api
+bashgit clone https://github.com/KalenAsberry12/RAG-API
 cd rag-api
 
 Install dependencies
