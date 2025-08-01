@@ -27,11 +27,11 @@ Knowledge Base set up in AWS Bedrock
 Installation
 
 Clone the repository
-bashgit clone https://github.com/KalenAsberry12/RAG-API
+bash git clone https://github.com/KalenAsberry12/RAG-API
 cd rag-api
 
 Install dependencies
-bashpip install -r requirements.txt
+bash pip install -r requirements.txt
 
 Environment Configuration
 Create a .env file in the project root:
